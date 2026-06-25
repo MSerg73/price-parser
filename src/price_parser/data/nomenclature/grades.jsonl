@@ -1,0 +1,73 @@
+{"id": "grade-0001", "canonical": "БРБ2", "status": "CONFIRMED", "source_reference": "Тестовое задание заказчика", "standard_system": null}
+{"id": "grade-0002", "canonical": "У7А", "status": "CONFIRMED", "source_reference": "ГОСТ 1435-99", "standard_system": null}
+{"id": "grade-0003", "canonical": "У8А", "status": "CONFIRMED", "source_reference": "ГОСТ 1435-99", "standard_system": null}
+{"id": "grade-0004", "canonical": "У9", "status": "CONFIRMED", "source_reference": "ГОСТ 1435-99", "standard_system": null}
+{"id": "grade-0005", "canonical": "У10А", "status": "CONFIRMED", "source_reference": "ГОСТ 1435-99", "standard_system": null}
+{"id": "grade-0006", "canonical": "У12А", "status": "CONFIRMED", "source_reference": "ГОСТ 1435-99", "standard_system": null}
+{"id": "grade-0007", "canonical": "ХВГ", "status": "CONFIRMED", "source_reference": "ГОСТ 5950-2000", "standard_system": null}
+{"id": "grade-0008", "canonical": "Х12М", "status": "CONFIRMED", "source_reference": "ГОСТ 5950-2000", "standard_system": null}
+{"id": "grade-0009", "canonical": "Х12МФ", "status": "CONFIRMED", "source_reference": "ГОСТ 5950-2000", "standard_system": null}
+{"id": "grade-0010", "canonical": "Х12Ф1", "status": "CONFIRMED", "source_reference": "ГОСТ 5950-2000", "standard_system": null}
+{"id": "grade-0011", "canonical": "ШХ15", "status": "CONFIRMED", "source_reference": "ГОСТ 801-78", "standard_system": null}
+{"id": "grade-0012", "canonical": "12Х13", "status": "CONFIRMED", "source_reference": "ГОСТ 5632", "standard_system": null}
+{"id": "grade-0013", "canonical": "20Х13", "status": "CONFIRMED", "source_reference": "ГОСТ 5632", "standard_system": null}
+{"id": "grade-0014", "canonical": "20Х17Н2", "status": "CONFIRMED", "source_reference": "ГОСТ 5632", "standard_system": null}
+{"id": "grade-0015", "canonical": "08Х18Н10Т", "status": "CONFIRMED", "source_reference": "ГОСТ 5632", "standard_system": null}
+{"id": "grade-0016", "canonical": "12Х18Н10Т", "status": "CONFIRMED", "source_reference": "ГОСТ 5632", "standard_system": null}
+{"id": "grade-0017", "canonical": "12Х18Н9Т", "status": "CONFIRMED", "source_reference": "ГОСТ 5632", "standard_system": null}
+{"id": "grade-0018", "canonical": "А12", "status": "CONFIRMED", "source_reference": "ГОСТ 1414-75", "standard_system": null}
+{"id": "grade-0019", "canonical": "11Р3АМ3Ф2", "status": "CONFIRMED", "source_reference": "ГОСТ 19265-73", "standard_system": null}
+{"id": "grade-0020", "canonical": "15Х", "status": "CONFIRMED", "source_reference": "ГОСТ 4543-2016", "standard_system": null}
+{"id": "grade-0021", "canonical": "60С2А", "status": "CONFIRMED", "source_reference": "ГОСТ 14959-2016", "standard_system": null}
+{"id": "grade-0022", "canonical": "М3Р", "status": "CONFIRMED", "source_reference": "ГОСТ 859", "standard_system": null}
+{"id": "grade-0023", "canonical": "36КНМ", "status": "CONFIRMED", "source_reference": "ГОСТ 10994-74", "standard_system": null}
+{"id": "grade-0024", "canonical": "32НКД", "status": "CONFIRMED", "source_reference": "ГОСТ 10994-74", "standard_system": null}
+{"id": "grade-0025", "canonical": "47НД", "status": "CONFIRMED", "source_reference": "ГОСТ 10994-74", "standard_system": null}
+{"id": "grade-0026", "canonical": "32НК", "status": "CONFIRMED", "source_reference": "ГОСТ 10994-74", "standard_system": null}
+{"id": "grade-0027", "canonical": "49К2Ф", "status": "CONFIRMED", "source_reference": "ГОСТ 10994-74", "standard_system": null}
+{"id": "grade-0028", "canonical": "42НХТЮ", "status": "CONFIRMED", "source_reference": "ГОСТ 10994-74", "standard_system": null}
+{"id": "grade-0029", "canonical": "36НХТЮ", "status": "CONFIRMED", "source_reference": "ГОСТ 10994-74", "standard_system": null}
+{"id": "grade-0030", "canonical": "36НХТЮ5М", "status": "CONFIRMED", "source_reference": "ГОСТ 10994-74", "standard_system": null}
+{"id": "grade-0031", "canonical": "Х12ВМФ", "status": "CONFIRMED", "source_reference": "ГОСТ 5950-2000", "standard_system": null}
+{"id": "grade-0032", "canonical": "Х15Ю5", "status": "CONFIRMED", "source_reference": "ГОСТ 10994-74", "standard_system": null}
+{"id": "grade-0033", "canonical": "Х23Ю5Т", "status": "CONFIRMED", "source_reference": "ГОСТ 10994-74", "standard_system": null}
+{"id": "grade-0034", "canonical": "НК0,2Э", "status": "CONFIRMED", "source_reference": "ГОСТ 13548-77 / ГОСТ 19241-80", "standard_system": null}
+{"id": "grade-0035", "canonical": "НВ3", "status": "CONFIRMED", "source_reference": "ГОСТ 13548-77 / ГОСТ 19241-80", "standard_system": null}
+{"id": "grade-0036", "canonical": "М1", "status": "CONFIRMED", "source_reference": "ГОСТ 859", "standard_system": null}
+{"id": "grade-0037", "canonical": "М2", "status": "CONFIRMED", "source_reference": "ГОСТ 859", "standard_system": null}
+{"id": "grade-0038", "canonical": "М3", "status": "CONFIRMED", "source_reference": "ГОСТ 859", "standard_system": null}
+{"id": "grade-0039", "canonical": "40Х", "status": "CONFIRMED", "source_reference": "ГОСТ 4543", "standard_system": null}
+{"id": "grade-0040", "canonical": "09Г2С", "status": "CONFIRMED", "source_reference": "ГОСТ 19281", "standard_system": null}
+{"id": "grade-0041", "canonical": "СВ-08ГА", "status": "CONFIRMED", "source_reference": "ГОСТ 2246-70", "standard_system": null}
+{"id": "grade-0042", "canonical": "СВ-08Г2С", "status": "CONFIRMED", "source_reference": "ГОСТ 2246-70", "standard_system": null}
+{"id": "grade-0043", "canonical": "29НК", "status": "CONFIRMED", "source_reference": "ГОСТ 10994-74", "standard_system": null}
+{"id": "grade-0044", "canonical": "36Н", "status": "CONFIRMED", "source_reference": "ГОСТ 10994-74", "standard_system": null}
+{"id": "grade-0045", "canonical": "50Н", "status": "CONFIRMED", "source_reference": "ГОСТ 10160-75", "standard_system": null}
+{"id": "grade-0046", "canonical": "79НМ", "status": "CONFIRMED", "source_reference": "ГОСТ 10160-75", "standard_system": null}
+{"id": "grade-0047", "canonical": "81НМА", "status": "CONFIRMED", "source_reference": "ГОСТ 10160-75", "standard_system": null}
+{"id": "grade-0048", "canonical": "Х20Н80", "status": "CONFIRMED", "source_reference": "ГОСТ 10994 / ГОСТ 8803-89", "standard_system": null}
+{"id": "grade-0049", "canonical": "Х15Н60", "status": "CONFIRMED", "source_reference": "ГОСТ 10994 / ГОСТ 8803-89", "standard_system": null}
+{"id": "grade-0050", "canonical": "CU-ETP", "status": "CONFIRMED", "source_reference": "EN 1976 / copper designation", "standard_system": null}
+{"id": "grade-0051", "canonical": "CU-DHP", "status": "CONFIRMED", "source_reference": "EN 1976 / copper designation", "standard_system": null}
+{"id": "grade-0052", "canonical": "CU-OFE", "status": "CONFIRMED", "source_reference": "EN 1976 / ГОСТ 859", "standard_system": null}
+{"id": "grade-0053", "canonical": "C10200", "status": "CONFIRMED", "source_reference": "UNS copper alloy designation", "standard_system": null}
+{"id": "grade-0054", "canonical": "C11000", "status": "CONFIRMED", "source_reference": "UNS copper alloy designation", "standard_system": null}
+{"id": "grade-0055", "canonical": "А75", "status": "CONFIRMED", "source_reference": "ТУ 14-1-3390-82", "standard_system": null}
+{"id": "grade-0056", "canonical": "80С", "status": "CONFIRMED", "source_reference": "нормативно-справочная документация по маркам стали", "standard_system": null}
+{"id": "grade-0057", "canonical": "03Х17Н14М3", "status": "CONFIRMED", "source_reference": "ГОСТ 5632 / справочник обозначений ЭИ", "standard_system": null}
+{"id": "grade-0058", "canonical": "015Н18М4ТЮ-ИД", "status": "CONFIRMED", "source_reference": "отраслевая НТД на сплав ЭП989/ЧС5У", "standard_system": null}
+{"id": "grade-0059", "canonical": "Н70МФ", "status": "CONFIRMED", "source_reference": "ГОСТ 5632 / справочник никелевых сплавов", "standard_system": null}
+{"id": "grade-0060", "canonical": "84КСР", "status": "CONFIRMED", "source_reference": "ГОСТ 10994-74", "standard_system": null}
+{"id": "grade-0061", "canonical": "32НХ3", "status": "CONFIRMED", "source_reference": "справочник прецизионных сплавов", "standard_system": null}
+{"id": "grade-0062", "canonical": "10880", "status": "CONFIRMED", "source_reference": "ГОСТ 11036-75", "standard_system": null}
+{"id": "grade-0063", "canonical": "11895", "status": "CONFIRMED", "source_reference": "ГОСТ 11036-75", "standard_system": null}
+{"id": "grade-0064", "canonical": "НМЖМЦ28-2,5-1,5", "status": "CONFIRMED", "source_reference": "ГОСТ 492-2006", "standard_system": null}
+{"id": "grade-0065", "canonical": "ТБ107/71", "status": "CONFIRMED", "source_reference": "ГОСТ 10533-86", "standard_system": null}
+{"id": "grade-0066", "canonical": "Х23Ю5", "status": "CONFIRMED", "source_reference": "ГОСТ 12766.2", "standard_system": null}
+{"id": "grade-0067", "canonical": "03Н18К9М5ТЮ-ИД", "status": "CONFIRMED", "source_reference": "ТУ 14-1-4805-90", "standard_system": null}
+{"id": "grade-0068", "canonical": "E308LT1-4(1)", "status": "CONFIRMED", "source_reference": "AWS A5.22", "standard_system": null}
+{"id": "grade-0069", "canonical": "АВ", "status": "CONFIRMED", "source_reference": "ГОСТ 4784", "standard_system": null}
+{"id": "grade-0070", "canonical": "1.4410", "status": "CONFIRMED", "source_reference": "EN 10088", "standard_system": null}
+{"id": "grade-0071", "canonical": "С1", "status": "CONFIRMED", "source_reference": "ГОСТ 3778-98", "standard_system": null}
+{"id": "grade-0072", "canonical": "AISI 321", "status": "CONFIRMED", "source_reference": "Пример поиска из паспорта проекта; нормативная связь требует подтверждения", "standard_system": "AISI"}
+{"id": "grade-0073", "canonical": "EN 1.4541", "status": "CONFIRMED", "source_reference": "Пример поиска из паспорта проекта; нормативная связь требует подтверждения", "standard_system": "EN"}

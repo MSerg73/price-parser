@@ -1,0 +1,38 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "GradeDefinition",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "canonical",
+    "status",
+    "source_reference"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "canonical": {
+      "type": "string",
+      "minLength": 1
+    },
+    "status": {
+      "enum": [
+        "CONFIRMED",
+        "PROPOSED",
+        "REJECTED"
+      ]
+    },
+    "source_reference": {
+      "type": "string"
+    },
+    "standard_system": {
+      "type": [
+        "string",
+        "null"
+      ]
+    }
+  }
+}

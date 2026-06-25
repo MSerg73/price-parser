@@ -1,0 +1,37 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "AliasDefinition",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "alias",
+    "canonical_grade_id",
+    "status",
+    "source_reference"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "alias": {
+      "type": "string",
+      "minLength": 1
+    },
+    "canonical_grade_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "status": {
+      "enum": [
+        "CONFIRMED",
+        "PROPOSED",
+        "REJECTED"
+      ]
+    },
+    "source_reference": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "version": "1.0.0",
+  "default_policy": {
+    "automatic_substitution": false,
+    "when_no_confirmed_rule": "SHOW_NEAREST_AS_REVIEW_CANDIDATE"
+  },
+  "rules": []
+}

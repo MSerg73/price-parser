@@ -1,0 +1,59 @@
+# Secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+*.p12
+# Python
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+*.egg-info/
+# Private source and runtime data
+sample_data/
+input/
+output/
+outputs/
+reports/
+report/
+demo_current/
+installers/
+backup/
+backups/
+tmp/
+temp/
+replay/
+llm_safe/
+# Price lists, databases and generated artifacts
+*.xls
+*.xlsx
+*.xlsm
+*.xlsb
+*.csv
+*.zip
+*.7z
+*.rar
+*.db
+*.sqlite
+*.sqlite3
+*.log
+*.eml
+*.msg
+~$*
+# OS
+Thumbs.db
+.DS_Store/PUBLIC_PREPARE_REPORT.txt
+/PUBLIC_SANITIZATION_FINDINGS.txt
+/PUBLIC_TESTS_RESULT.txt
+/PUBLIC_STAGED_FILES.txt
+/PUBLIC_FORBIDDEN_STAGED_FILES.txt
+/PUBLIC_PREPARE_REPORT.txt

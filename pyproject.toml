@@ -1,0 +1,56 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "industrial-price-parser"
+version = "0.7.1rc14"
+description = "Parser, search, review, safe LLM, backend API, mail and commercial documents"
+requires-python = ">=3.11"
+dependencies = [
+  "python-calamine>=0.7,<1",
+]
+
+[project.optional-dependencies]
+llm = [
+  "openai>=2.15,<3",
+  "pydantic>=2.8,<3",
+]
+backend = [
+  "sqlalchemy>=2.0.46,<2.1",
+  "alembic>=1.18,<2",
+  "fastapi>=0.115,<1",
+  "uvicorn>=0.30,<1",
+  "pydantic>=2.8,<3",
+  "pydantic-settings>=2.8,<3",
+  "reportlab>=4.2,<5",
+]
+postgres = [
+  "psycopg[binary]>=3.2,<4",
+]
+test = [
+  "pytest>=8,<10",
+  "pydantic>=2.8,<3",
+  "httpx>=0.27,<1",
+]
+
+[project.scripts]
+price-parser = "price_parser.cli:main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+
+[tool.setuptools.package-data]
+price_parser = [
+  "data/nomenclature/*.json",
+  "data/nomenclature/*.jsonl",
+  "data/nomenclature/schema/*.json",
+  "db/migrations/*.mako",
+]

@@ -1,0 +1,19 @@
+{"id": "alias-0001-02", "alias": "C17200", "canonical_grade_id": "grade-0001", "status": "CONFIRMED", "source_reference": "Тестовое задание заказчика"}
+{"id": "alias-0001-03", "alias": "CUBE2", "canonical_grade_id": "grade-0001", "status": "CONFIRMED", "source_reference": "Тестовое задание заказчика"}
+{"id": "alias-0001-04", "alias": "CU BE2", "canonical_grade_id": "grade-0001", "status": "CONFIRMED", "source_reference": "Тестовое задание заказчика"}
+{"id": "alias-0001-05", "alias": "ALLOY25", "canonical_grade_id": "grade-0001", "status": "CONFIRMED", "source_reference": "Тестовое задание заказчика"}
+{"id": "alias-0001-06", "alias": "ALLOY 25", "canonical_grade_id": "grade-0001", "status": "CONFIRMED", "source_reference": "Тестовое задание заказчика"}
+{"id": "alias-0025-02", "alias": "47НД-ВИ", "canonical_grade_id": "grade-0025", "status": "CONFIRMED", "source_reference": "ГОСТ 10994-74"}
+{"id": "alias-0026-02", "alias": "32НК-ЭЛ", "canonical_grade_id": "grade-0026", "status": "CONFIRMED", "source_reference": "ГОСТ 10994-74"}
+{"id": "alias-0026-03", "alias": "32НК-ВИ", "canonical_grade_id": "grade-0026", "status": "CONFIRMED", "source_reference": "ГОСТ 10994-74"}
+{"id": "alias-0034-02", "alias": "НК0.2Э", "canonical_grade_id": "grade-0034", "status": "CONFIRMED", "source_reference": "ГОСТ 13548-77 / ГОСТ 19241-80"}
+{"id": "alias-0052-02", "alias": "М0Б", "canonical_grade_id": "grade-0052", "status": "CONFIRMED", "source_reference": "EN 1976 / ГОСТ 859"}
+{"id": "alias-0057-02", "alias": "ЭИ66", "canonical_grade_id": "grade-0057", "status": "CONFIRMED", "source_reference": "ГОСТ 5632 / справочник обозначений ЭИ"}
+{"id": "alias-0058-02", "alias": "ЭП989-ИД", "canonical_grade_id": "grade-0058", "status": "CONFIRMED", "source_reference": "отраслевая НТД на сплав ЭП989/ЧС5У"}
+{"id": "alias-0058-03", "alias": "ЧС5У", "canonical_grade_id": "grade-0058", "status": "CONFIRMED", "source_reference": "отраслевая НТД на сплав ЭП989/ЧС5У"}
+{"id": "alias-0059-02", "alias": "ЭП496", "canonical_grade_id": "grade-0059", "status": "CONFIRMED", "source_reference": "ГОСТ 5632 / справочник никелевых сплавов"}
+{"id": "alias-0061-02", "alias": "ЭП546", "canonical_grade_id": "grade-0061", "status": "CONFIRMED", "source_reference": "справочник прецизионных сплавов"}
+{"id": "alias-0062-02", "alias": "Э10", "canonical_grade_id": "grade-0062", "status": "CONFIRMED", "source_reference": "ГОСТ 11036-75"}
+{"id": "alias-0064-02", "alias": "НМЖМЦ 28-2.5-1.5", "canonical_grade_id": "grade-0064", "status": "CONFIRMED", "source_reference": "ГОСТ 492-2006"}
+{"id": "alias-0066-02", "alias": "Х23Ю5-М", "canonical_grade_id": "grade-0066", "status": "CONFIRMED", "source_reference": "ГОСТ 12766.2"}
+{"id": "alias-0067-02", "alias": "ЧС4-ИД", "canonical_grade_id": "grade-0067", "status": "CONFIRMED", "source_reference": "ТУ 14-1-4805-90"}
